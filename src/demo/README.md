@@ -1,5 +1,5 @@
 ---
-title: Features demo
+title: JavaDoc
 index: false
 icon: laptop-code
 category:
