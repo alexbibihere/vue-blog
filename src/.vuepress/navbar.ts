@@ -4,7 +4,7 @@ export default navbar([
   "/",
   "/demo/",
   {
-    text: "Posts",
+    text: "元",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
