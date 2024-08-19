@@ -72,17 +72,20 @@ npm i -D vuepress-theme-hope
 
 ::: tabs#fruit
 
-@tab apple
+@tab Java基础
+Java基础
 
-Apple
+@tab apple12
 
-@tab banana
+Apple1232
 
-Banana
+@tab banana2
 
-@tab orange
+Banana2
 
-Orange
+@tab orange2
+
+Orange2
 
 :::
 

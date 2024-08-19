@@ -8,7 +8,7 @@ export default defineUserConfig({
   lang: "en-US",
   title: "Yan's Blog",
   description: "A blog demo for vuepress-theme-hope",
-
+ 
   theme,
 
   // Enable it with pwa
