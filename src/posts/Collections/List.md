@@ -1,17 +1,15 @@
 ---
-cover: /assets/images/cover2.jpg
 icon: pen-to-square
-date: 2022-01-12
+date: 2022-01-09
 category:
-  - Vegetable
+  - Cherry
 tag:
   - red
+  - small
   - round
-star: true
-sticky: true
 ---
 
-# 博客的日程流
+# List中ArrayList和LinkedList的区别
 
 ## Heading 2
 
