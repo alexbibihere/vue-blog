@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/vue-blog/",
+  base: "/vuepress/",
 
   lang: "en-US",
   title: "Yan's Blog",
@@ -11,6 +11,6 @@ export default defineUserConfig({
  
   theme,
 
-  // Enable it with pwa
+  // Enable it with pwawere
   // shouldPrefetch: false,
 });
